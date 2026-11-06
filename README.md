@@ -2,7 +2,7 @@
 
 **Ryujinx Nintendo Switch Emulator** v1.1.1509 stacks ryujinx mods and ryujinx ldn. layeredfs, moltenvk, amiibo. Bring firmware you already own.
 
-<img width="1280" height="1338" alt="images1" src="https://github.com/user-attachments/assets/1fbb72cc-fa53-4788-bbb6-7a162baa81f3" />
+<img width="280" height="280" alt="images1" src="https://github.com/user-attachments/assets/1fbb72cc-fa53-4788-bbb6-7a162baa81f3" />
 <img width="1200" height="675" alt="images2" src="https://github.com/user-attachments/assets/1adc5d6f-0b5b-4f47-a8a1-41a66d46080b" />
 
 ## What's new
