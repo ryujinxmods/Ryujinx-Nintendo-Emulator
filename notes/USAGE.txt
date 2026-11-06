@@ -1,0 +1,1 @@
+Load mods through layeredfs. ldn rooms are local. Bring firmware you already own.
